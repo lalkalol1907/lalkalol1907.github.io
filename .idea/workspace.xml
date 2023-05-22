@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5e58e27-f38c-43cd-a8c0-af9dedcb4d4c" name="Changes" comment="initial commit" />
+    <list default="true" id="a5e58e27-f38c-43cd-a8c0-af9dedcb4d4c" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Konstantin/WebstormProjects/portfolio-starter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -50,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684760464168</updated>
-      <workItem from="1684760465458" duration="16050000" />
+      <workItem from="1684760465458" duration="16990000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1684778561954</created>
