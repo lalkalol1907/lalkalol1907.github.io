@@ -33,16 +33,10 @@ const Banner = () => {
             >
               <span className="text-white mr-4">I am a</span>
               <TypeAnimation
-                sequence={[
-                  "Backend Developer",
-                  2000,
-                  "System engineer/analyst student",
-                  500,
-                ]}
-                speed={50}
+                sequence={["Backend Developer", 2000]}
+                speed={5}
                 className="text-accent"
                 wrapper="span"
-                repeat={Infinity}
               />
             </motion.div>
             <motion.p
@@ -67,7 +61,11 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0"
             >
-              <a href="https://github.com/lalkalol1907">
+              <a
+                href="https://github.com/lalkalol1907"
+                rel="noreferrer"
+                target="_blank"
+              >
                 <FaGithub />
               </a>
             </motion.div>
