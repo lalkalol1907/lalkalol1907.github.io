@@ -39,7 +39,12 @@ const Work = () => {
                 src={Img1}
                 alt=""
               />
-              <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all suration-500 z-50">
+              <div className="absolute -bottom-full left-12 group-hover:bottom-60 transition-all suration-700 z-50">
+                <span className="text-3xl text-white">
+                  Email Messenger (In develop)
+                </span>
+              </div>
+              <div className="absolute -bottom-full left-12 group-hover:bottom-32 transition-all suration-500 z-50">
                 <span className="text-gradient">
                   Creator
                   <br />
@@ -48,9 +53,9 @@ const Work = () => {
                   Developer
                 </span>
               </div>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all suration-700 z-50">
-                <span className="text-3xl text-white">Email Messenger</span>
-              </div>
+              <p className="absolute -bottom-full left-12 group-hover:bottom-8 transition-all suration-700 z-50">
+                Email client that presents messages like chats in a messenger
+              </p>
             </div>
           </motion.div>
           <motion.div
@@ -73,18 +78,21 @@ const Work = () => {
                 src={Img3}
                 alt=""
               />
-              <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all suration-500 z-50">
+              <div className="absolute -bottom-full left-12 group-hover:bottom-60 transition-all suration-700 z-50">
+                <span className="text-3xl text-white">
+                  Mujahid Music Bot V2
+                </span>
+              </div>
+              <div className="absolute -bottom-full left-12 group-hover:bottom-36 transition-all suration-500 z-50">
                 <span className="text-gradient">
                   Creator
                   <br />
                   Developer
                 </span>
               </div>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all suration-700 z-50">
-                <span className="text-3xl text-white">
-                  Mujahid Music Bot V2
-                </span>
-              </div>
+              <p className="absolute -bottom-full left-12 group-hover:bottom-8 transition-all suration-700 z-50">
+                Discord bot for listening to music on the server, written in TS
+              </p>
             </div>
 
             <div
@@ -99,7 +107,10 @@ const Work = () => {
                 src={Img2}
                 alt=""
               />
-              <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all suration-500 z-50">
+              <div className="absolute -bottom-full left-12 group-hover:bottom-60 transition-all suration-700 z-50">
+                <span className="text-3xl text-white">School Chat</span>
+              </div>
+              <div className="absolute -bottom-full left-12 group-hover:bottom-32 transition-all suration-500 z-50">
                 <span className="text-gradient">
                   Team Lead
                   <br />
@@ -108,9 +119,10 @@ const Work = () => {
                   IOS Developer
                 </span>
               </div>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all suration-700 z-50">
-                <span className="text-3xl text-white">School Chat</span>
-              </div>
+              <p className="absolute -bottom-full left-12 group-hover:bottom-8 transition-all suration-700 z-50">
+                Messenger created during the quarantine for integration into the
+                electronic education system
+              </p>
             </div>
           </motion.div>
         </div>
