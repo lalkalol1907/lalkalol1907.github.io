@@ -66,21 +66,21 @@ const Banner = () => {
                 rel="noreferrer"
                 target="_blank"
               >
-                <FaGithub />
+                <FaGithub className="hover:fill-purple-900 transition-colors" />
               </a>
               <a
                 href="https://vk.com/lalkalol1907"
                 rel="noreferrer"
                 target="_blank"
               >
-                <FaVk />
+                <FaVk className="hover:fill-blue-600 transition-colors" />
               </a>
               <a
                 href="https://t.me/lalkalol190777"
                 rel="noreferrer"
                 target="_blank"
               >
-                <FaTelegram />
+                <FaTelegram className="hover:fill-neutral-700 transition-colors" />
               </a>
             </motion.div>
           </div>
