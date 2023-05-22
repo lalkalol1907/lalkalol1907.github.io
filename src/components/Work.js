@@ -20,7 +20,7 @@ const Work = () => {
             {/*  text  */}
             <div className="flex-1">
               <h2 className="h2 leading-tight text-accent">
-                My Best <br />
+                My <br />
                 Projects.
               </h2>
               <p className="max-w-sm mb-16"></p>
