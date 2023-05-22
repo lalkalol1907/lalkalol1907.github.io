@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "../assets/avatar.png";
-import { FaGithub } from "react-icons/fa";
+import { FaGithub, FaTelegram, FaVk } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
@@ -67,6 +67,20 @@ const Banner = () => {
                 target="_blank"
               >
                 <FaGithub />
+              </a>
+              <a
+                href="https://vk.com/lalkalol1907"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <FaVk />
+              </a>
+              <a
+                href="https://t.me/lalkalol190777"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <FaTelegram />
               </a>
             </motion.div>
           </div>
